@@ -1,22 +1,3 @@
-# La patente: una cadena de caracteres). Recuerde que se asume que no necesariamente
-# tendrá 7 caracteres, pero que no contendrá tampoco blancos ni letras minúsculas, ni
-# caracteres diferentes de letras y números. Observe no obstante que incluso teniendo
-# 7 caracteres podría no ser una placa válida para ninguno de los cinco países
-# (y esto SÍ puede ocurrir en este trabajo).
-
-# El tipo de vehículo: un número entero entre 0 y 2 que indica alguno de los siguientes tipos de vehículos:
-# (0: motocicleta, 1: automóvil, 2: camión).
-
-# La forma de pago: un número entero que indica alguno de los dos siguientes
-# tipos de pago: (1: manual, 2 telepeaje).
-
-# País: un número entero entre 0 y 4 para indicar el país donde está la cabina atravesada
-# (asúmalos en el orden que prefiera).
-
-# Distancia: Un número en coma flotante indicando la distancia en kilómetros que recorrió ese
-# vehículo desde la última cabina de peaje que atravesó (asumimos que de alguna forma las cabinas
-# se informan entre ellas esos datos). Aquí ingrese un cero para indicar que la cabina actual es la primera
-# que ese vehículo atraviesa.
 
 print(78 * '*')
 print('TRABAJO PRACTICO 01: Gestión de Cabinas de Peaje.')
